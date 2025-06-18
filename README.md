@@ -1,1 +1,1 @@
-# productanalytics
+# Mock Product Analytics Project
